@@ -1,0 +1,62 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.02.03"]
+[Round "?"]
+[White "ChrysostomosK"]
+[Black "TedOiler"]
+[Result "1-0"]
+[ECO "C42"]
+[WhiteElo "1103"]
+[BlackElo "1022"]
+[TimeControl "720"]
+[EndTime "10:54:42 PST"]
+[Termination "ChrysostomosK won by checkmate"]
+
+1. e4 {[%timestamp 1]} 1... e5 {[%timestamp 1]} 2. Nf3 {[%timestamp 10]} 2...
+Nf6 {[%timestamp 156]} 3. c3 {[%timestamp 43]} 3... c5 {[%timestamp 26]} 4. Nxe5
+{[%timestamp 188]} 4... Bd6 {[%timestamp 231]} 5. f4 {[%timestamp 458]} 5...
+Bxe5 {[%timestamp 90]} 6. fxe5 {[%timestamp 14]} 6... Nxe4 {[%timestamp 46]} 7.
+Bc4 {[%timestamp 281]} 7... O-O {[%timestamp 421]} 8. d4 {[%timestamp 416]} 8...
+cxd4 {[%timestamp 54]} 9. Qxd4 {[%timestamp 155]} 9... Ng5 {[%timestamp 412]}
+10. Be3 {[%timestamp 338]} 10... Nc6 {[%timestamp 27]} 11. Qf4 {[%timestamp
+432]} 11... Re8 {[%timestamp 149]} 12. Bxf7+ {[%timestamp 225]} 12... Nxf7
+{[%timestamp 43]} 13. Nd2 {[%timestamp 827]} 13... Rxe5 {[%timestamp 57]} 14.
+O-O-O {[%timestamp 114]} 14... d5 {[%timestamp 285]} 15. h3 {[%timestamp 291]}
+15... Qd6 {[%timestamp 384]} 16. Nc4 {[%timestamp 200]} 16... Qh6 {[%timestamp
+169]} 17. Qxh6 {[%timestamp 187]} 17... Nxh6 {[%timestamp 1]} 18. Nxe5
+{[%timestamp 16]} 18... Nxe5 {[%timestamp 61]} 19. Bxh6 {[%timestamp 168]} 19...
+gxh6 {[%timestamp 30]} 20. Rxd5 {[%timestamp 30]} 20... Nc4 {[%timestamp 194]}
+21. Re1 {[%timestamp 403]} 21... b6 {[%timestamp 152]} 22. Rd8+ {[%timestamp
+229]} 22... Kf7 {[%timestamp 33]} 23. g4 {[%timestamp 334]} 23... a5
+{[%timestamp 134]} 24. Rde8 {[%timestamp 52]} 24... b5 {[%timestamp 17]} 25. b3
+{[%timestamp 54]} 25... Nb6 {[%timestamp 23]} 26. R1e7+ {[%timestamp 188]} 26...
+Kg6 {[%timestamp 53]} 27. Kd2 {[%timestamp 166]} 27... Bd7 {[%timestamp 62]} 28.
+Rxa8 {[%timestamp 53]} 28... Nxa8 {[%timestamp 22]} 29. Rxd7 {[%timestamp 25]}
+29... Kg5 {[%timestamp 8]} 30. Rxh7 {[%timestamp 31]} 30... Nb6 {[%timestamp
+63]} 31. Ke3 {[%timestamp 43]} 31... Nd5+ {[%timestamp 23]} 32. Kf3 {[%timestamp
+58]} 32... Nxc3 {[%timestamp 18]} 33. Rg7+ {[%timestamp 99]} 33... Kh4
+{[%timestamp 17]} 34. g5 {[%timestamp 157]} 34... hxg5 {[%timestamp 24]} 35.
+Rh7# {[%timestamp 100]} 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.02.03"]
+[Round "?"]
+[White "TedOiler"]
+[Black "ChrysostomosK"]
+[Result "0-1"]
+[ECO "C42"]
+[WhiteElo "1038"]
+[BlackElo "1096"]
+[TimeControl "720"]
+[EndTime "10:37:39 PST"]
+[Termination "ChrysostomosK won by resignation"]
+
+1. e4 {[%timestamp 1]} 1... e5 {[%timestamp 1]} 2. Nf3 {[%timestamp 22]} 2...
+Nf6 {[%timestamp 14]} 3. c4 {[%timestamp 33]} 3... Bc5 {[%timestamp 158]} 4. a3
+{[%timestamp 235]} 4... Nxe4 {[%timestamp 109]} 5. b4 {[%timestamp 32]} 5...
+Nxf2 {[%timestamp 121]} 6. Qb3 {[%timestamp 244]} 6... Nxh1 {[%timestamp 37]} 7.
+Nxe5 {[%timestamp 25]} 7... Bd4 {[%timestamp 320]} 8. c5 {[%timestamp 26]} 8...
+Qe7 {[%timestamp 235]} 9. Be2 {[%timestamp 327]} 9... Bxa1 {[%timestamp 115]}
+10. d3 {[%timestamp 106]} 10... Qxe5 {[%timestamp 162]} 11. Qxf7+ {[%timestamp
+245]} 0-1
